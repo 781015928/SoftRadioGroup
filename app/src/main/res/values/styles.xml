@@ -1,0 +1,22 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="softRadioButton_style" >
+        <item name="textSize">15sp</item>
+        <item name="textColorChecked">#FF3700</item>
+        <item name="textColor">#232323 </item>
+        <item name="upImage">@mipmap/goods_detail_sort_up</item>
+        <item name="downImage">@mipmap/goods_detail_sort_down</item>
+        <item name="upImageChecked">@mipmap/goods_detail_sort_up_choosed</item>
+        <item name="downImageChecked">@mipmap/goods_detail_sort_down_choosed</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">1</item>
+    </style>
+</resources>
