@@ -8,7 +8,7 @@
         <item name="upImage">@mipmap/goods_detail_sort_up</item>指示器向上的图
         <item name="downImage">@mipmap/goods_detail_sort_down</item>指示器向下的图
         <item name="upImageChecked">@mipmap/goods_detail_sort_up_choosed</item> 指示器向上选中的图
-        <item name="downImageChecked">@mipmap/goods_detail_sort_down_choosed</item>指示器向下选中的图
+        <item name="downImageChecked">@mipmap/goods_detail_sort_down_choosed</item>指示器向下选中的图 
     </style>
     
 
